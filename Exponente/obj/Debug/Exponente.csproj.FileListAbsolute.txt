@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\source\repos\Exponente\Exponente\bin\Debug\Exponente.exe.config
+C:\Users\vinicius.fernandes\source\repos\Exponente\Exponente\bin\Debug\Exponente.exe
+C:\Users\vinicius.fernandes\source\repos\Exponente\Exponente\bin\Debug\Exponente.pdb
+C:\Users\vinicius.fernandes\source\repos\Exponente\Exponente\obj\Debug\Exponente.csprojAssemblyReference.cache
+C:\Users\vinicius.fernandes\source\repos\Exponente\Exponente\obj\Debug\Exponente.exe
+C:\Users\vinicius.fernandes\source\repos\Exponente\Exponente\obj\Debug\Exponente.pdb
